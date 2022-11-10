@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/84e19ded-5323-4cdf-b40e-443257b693c7/AppServices/subscriptions/84e19ded-5323-4cdf-b40e-443257b693c7/resourceGroups/az-react-2/providers/Microsoft.Web/sites/reactdemototo",
+    "appService.deploySubpath": "."
+}
